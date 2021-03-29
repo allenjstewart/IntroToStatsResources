@@ -35,13 +35,13 @@
 
 1. Create a histogram with class intervals of 50 for the data.
 2. Notice that there is an outlier in the histogram above. Instead use the rule
-\[
+$$
 \text{number of classes}\approx \sqrt{\text{number of observations}}
-\]
+$$
  to construct a new histogram.
 3. Construct a histogram with unequal class widths (you choose!) that obeys the rule
-\[
+$$
 \text{rectangle height} = \frac{\text{relative frequency of the class}}{\text{class width}}
-\]
+$$
 
 4.  Calculate the mean of the data and compare this the actual speed of light.
