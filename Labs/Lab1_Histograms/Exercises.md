@@ -1,4 +1,4 @@
-# Lab 1- Histograms
+# Lab 1 - Histograms
 ## Instructions
 - Use the material covered in LAB 0(Introduction to R) Notes and LAB 1(Histograms) Notes to answer the questions in this lab.
 - Complete each of the problems in the required problems section.
